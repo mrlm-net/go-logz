@@ -5,7 +5,7 @@ Logging package following SysLog protocol - [RFC 5424](https://datatracker.ietf.
 | Package | `mrlm-net/go-logz` |
 | :-- | :-- |
 | Go Module | `github.com/mrlm-net/go-logz` |
-| License | Apache 2.0 |
+| License | ![GitHub License](https://img.shields.io/github/license/mrlm-net/go-logz) |
 
 This is the Go implementation of the [TypeScript logz package](https://github.com/mrlm-net/logz).
 
